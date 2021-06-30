@@ -23,7 +23,8 @@
      "Firing a new Linux VM Instance... ", 
      "console.log('Never gonna Give you up')", 
      "Never Gonna Let you down", 
-     "git add .", 
+     "git add .",
+     "Authenticating... ", 
      "git commit -m \"ha! got em\"", 
      "git push origin master", 
      "cd Desktop"
