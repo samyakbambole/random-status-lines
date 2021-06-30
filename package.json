@@ -1,7 +1,7 @@
 {
   "name": "random-status-lines",
-  "version": "1.0.0",
-  "description": "A Libraru Which can Generate Random Status Lines.",
+  "version": "1.0.2",
+  "description": "A Library Which can Generate Random Status Lines.",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
