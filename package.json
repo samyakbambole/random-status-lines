@@ -1,0 +1,21 @@
+{
+  "name": "random-status-lines",
+  "version": "1.0.0",
+  "description": "A Libraru Which can Generate Random Status Lines.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Random",
+    "status",
+    "lines",
+    "npm",
+    "nodejs",
+    "javascript",
+    "loading",
+    "screen"
+  ],
+  "author": "Samyak Bambole",
+  "license": "MIT"
+}
