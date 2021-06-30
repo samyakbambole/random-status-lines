@@ -3,6 +3,9 @@
   "version": "1.0.2",
   "description": "A Library Which can Generate Random Status Lines.",
   "main": "index.js",
+  "repository": "git://github.com/samyakbambole/ironer.git",
+  "preferGlobal": true,
+  "bin": "./index.js",
   "scripts": {
     "test": "node test.js"
   },
