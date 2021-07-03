@@ -9,6 +9,9 @@
   "scripts": {
     "test": "node test.js"
   },
+  "publishConfig": {
+  "registry":"https://npm.pkg.github.com"
+  },
   "keywords": [
     "Random",
     "status",
