@@ -1,6 +1,6 @@
 {
   "name": "random-status-lines",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A Library Which can Generate Random Status Lines.",
   "main": "index.js",
   "repository": "git://github.com/samyakbambole/ironer.git",
@@ -8,9 +8,6 @@
   "bin": "./index.js",
   "scripts": {
     "test": "node test.js"
-  },
-  "publishConfig": {
-  "registry":"https://npm.pkg.github.com"
   },
   "keywords": [
     "Random",
