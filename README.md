@@ -1,7 +1,5 @@
 # random-status-lines 
 
-ransom-status-lines is now shifted to [@ironer/r-s-l](https://npmjs.org/@ironer/r-s-l)
-
 A Library Which can generate random status lines for loading screens.
 
 Ex. 
